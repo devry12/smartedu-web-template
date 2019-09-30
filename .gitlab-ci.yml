@@ -5,6 +5,6 @@ pages:
   - echo 'Deploying...'
   artifacts:
     paths:
-    - .
+    - /
   only:
   - master
